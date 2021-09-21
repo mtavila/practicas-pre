@@ -1,2 +1,3 @@
 # practicas-pre
- Prácticas Pro
+ 
+ Hola, este es el inicio del repositorio de curso rápido de GITHUB DESKTOP
